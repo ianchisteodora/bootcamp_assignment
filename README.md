@@ -1,0 +1,1 @@
+Small user application, where depending on the chosen user different actions can be taken. Using the Singleton pattern, only one Manager can be created. This manager can choose a logging strategy to log a message, using the Strategy pattern.
