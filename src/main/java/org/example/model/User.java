@@ -26,6 +26,8 @@ public class User {
         return configManagerInstance;
     }
 
+
+
     public static User createUser(String name, UserRole role, String address){
         return new User(name, role, address);
     }

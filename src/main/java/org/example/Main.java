@@ -37,6 +37,7 @@ public class Main {
         userRoles.put(user2.getName().toLowerCase(), user2.getRole());
 
 
+
         System.out.println("Please enter your name:");
 
         Scanner scanner = new Scanner(System.in);

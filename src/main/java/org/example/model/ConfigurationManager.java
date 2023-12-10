@@ -5,6 +5,7 @@ import java.util.Map;
 
 public class ConfigurationManager {
     private static ConfigurationManager instance;
+
     private Map<String, String> configurations;
 
     private ConfigurationManager() {
