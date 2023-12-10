@@ -15,8 +15,4 @@ public class LoggingController {
         this.loggingStrategy = loggingStrategy;
     }
 
-
-
-
-
 }

@@ -1,7 +1,6 @@
 package org.example.model;
 
 public class User {
-
     private static User configManagerInstance;
     private static int nextUserId = 1;
 

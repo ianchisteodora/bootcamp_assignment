@@ -27,7 +27,6 @@ public class FileLoggingStrategy implements LoggingStrategy{
         System.out.println("File Log: " + formattedLog);
 
     }
-
     public void close(){
         if(writer != null){
             writer.close();
